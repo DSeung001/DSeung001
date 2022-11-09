@@ -30,5 +30,4 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungryeol156@gmail.com)](mailto:seungryeol156@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Blogger&link=https://seung.tistory.com/)](https://seung.tistory.com/) 
 
