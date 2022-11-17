@@ -26,8 +26,6 @@
 </p>
 <br/>
 
-![DSeung001's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSeung001&show_icons=true&theme=dark)
-
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungryeol156@gmail.com)](mailto:seungryeol156@gmail.com)
-
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://seung.tistory.com/)
