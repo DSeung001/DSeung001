@@ -1,9 +1,9 @@
-### 이거 관심있어요
+## 이거 관심있어요
 <p> 
   <img src="https://img.shields.io/badge/GOLANG-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
 </p>
 
-### 이거 잘해요
+## 이거 잘해요
 <p>
  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white">
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
@@ -11,7 +11,7 @@
 
 ***
 
-#### 실무에서 해봤어요
+### 실무에서 해봤어요
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
@@ -33,16 +33,15 @@
   <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
 </p>
 
-#### 문법 공부했어요 | 작은 프로젝트 만들어봤어요
+### 실무 투입 가능해요
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/GOLANG-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">
 </p>
 
-#### 이메일이에요
+### 이메일이에요
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungryeol156@gmail.com)](mailto:seungryeol156@gmail.com)
 
-#### 블로그이에요
+### 블로그이에요
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://seung.tistory.com/)
