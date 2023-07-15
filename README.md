@@ -1,5 +1,9 @@
 <div align="center"> 
 
+### 🙋‍♂️저는 
+
+<br/>
+
 ### 이거 관심있어요
 <p> 
   <img src="https://img.shields.io/badge/GOLANG-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
@@ -41,10 +45,10 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 </p>
 
-### 이메일이에요
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungryeol156@gmail.com)](mailto:seungryeol156@gmail.com)
-
 ### 블로그이에요
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://seung.tistory.com/)
+
+### 이메일이에요
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungryeol156@gmail.com)](mailto:seungryeol156@gmail.com)
 
 </div>
