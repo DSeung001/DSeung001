@@ -1,9 +1,11 @@
-## 이거 관심있어요
+<div align="center"> 
+
+### 이거 관심있어요
 <p> 
   <img src="https://img.shields.io/badge/GOLANG-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
 </p>
 
-## 이거 잘해요
+### 이거 잘해요
 <p>
  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white">
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
@@ -44,3 +46,5 @@
 
 ### 블로그이에요
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://seung.tistory.com/)
+
+</div>
