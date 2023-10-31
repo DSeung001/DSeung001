@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 </p>
 
-### 블로그이에요
+### 블로그예요
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://seung.tistory.com/)
 
 ### 이메일이에요
