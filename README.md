@@ -13,6 +13,8 @@
 <p>
  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white">
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
+ <img src="https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white"/>
+ <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
 <br/>
