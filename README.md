@@ -32,7 +32,7 @@
 
 ## 👨‍💻 Works
 
-- **Huvis (2024.04 ~ )**  
+- **Huvitz (2024.04 ~ )**  
   Developed web services and handled medical device data using Go and jQuery.
 
 - **AISUM (2024.01 ~ 2024.04)**  
