@@ -42,7 +42,7 @@
   Maintained and developed McDonald's Korea websites (official & event), Samsung/POSCO newsrooms using Laravel, Spring, and WordPress.<br/>
   도제 & 산업기능요원 복무
 
-- Korea National Open University, B.S. in Computer Science (2020 ~ 2023
+- Korea National Open University, B.S. in Computer Science (2020 ~ 2023)
 
 ---
 
