@@ -15,7 +15,7 @@
 ## 🛠 Skills
 
 - **Backend**
-  - Golang (관심 기술)
+  - Golang (Main Language)
   - Laravel, PHP
   - Java, Spring, Spring Boot
   - MySQL
