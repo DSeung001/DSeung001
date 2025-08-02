@@ -8,7 +8,7 @@
 ![counter](https://komarev.com/ghpvc/?username=seungryeol)
 
 📫 contact via email: [seungryeol156@gmail.com](mailto:seungryeol156@gmail.com)  
-📘 blog: 2025.07.30 ~ [https://dseung001.github.io/](https://dseung001.github.io/) / ~ 2025.07.30 [https://seung.tistory.com](https://seung.tistory.com)
+📘 blog: 2025.07.30 ~ [https://dseung001.github.io](https://dseung001.github.io), ~ 2025.07.30 [https://seung.tistory.com](https://seung.tistory.com)
 
 ---
 
