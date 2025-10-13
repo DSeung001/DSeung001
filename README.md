@@ -4,7 +4,6 @@
 **seungryeol/seungryeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![seungryeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungryeol&count_private=true&show_icons=true&theme=monokai)
 ![counter](https://komarev.com/ghpvc/?username=seungryeol)
 
 📫 contact via email: [seungryeol156@gmail.com](mailto:seungryeol156@gmail.com)  
