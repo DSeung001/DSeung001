@@ -19,6 +19,7 @@
   - Golang (Main Language)
   - Laravel, PHP
   - Java, Spring, Spring Boot
+  - Python, Django
   - MySQL
 
 - **Frontend**
