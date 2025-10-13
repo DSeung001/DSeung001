@@ -34,7 +34,7 @@
 ## 👨‍💻 Works
 
 - **Huvitz (2024.04 ~ )**  
-  Developed web services and handled medical device data using Go and jQuery.
+  Developed web services and handled medical device data using Go and Vue.js
 
 - **AISUM (2024.01 ~ 2024.04)**  
   Built a crawling and scheduling system for global e-commerce data using Python.
