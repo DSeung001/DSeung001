@@ -50,8 +50,7 @@
 
 ## ⭐️ Interests
 
-- **Main**: Full-stack web development, building data pipelines with Golang, and writing testable code
-- **Side**: Books and movies, webtoons, exploring game stories  
-- **Humanly**: Enhancing work efficiency, building connections with diverse people
+- **Main**: Software Engineering — full-stack web dev, data pipelines with Go
+- **Side**: Books and movies
 
 ---
