@@ -33,7 +33,7 @@
 
 ## 👨‍💻 Works
 
-- **Huvitz (2024.04 ~ )**  
+- **Huvitz (2024.04 ~ 2026.01)**  
   Developed web services and handled medical device data using Go and Vue.js
 
 - **AISUM (2024.01 ~ 2024.04)**  
