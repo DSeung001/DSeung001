@@ -15,16 +15,11 @@
 ## 🛠 Skills
 
 - **Backend**
-  - Golang (Main Language)
+  - Python, Django
+  - Golang
   - Laravel, PHP
   - Java, Spring, Spring Boot
-  - Python, Django
-  - MySQL
-
-- **Frontend**
-  - JavaScript
-    - jQuery, React, Vue.js
-  - HTML/CSS
+  - SQL
 
 - **Infra & OS**
   - Amazon EC2(Ubuntu), RDS
