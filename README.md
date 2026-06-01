@@ -44,7 +44,6 @@
 
 ## ⭐️ Interests
 
-- **Main**: Software Engineering — full-stack web dev, data pipelines with Go
-- **Side**: Books and movies
+요즘은 동영상에 관심있습니다.
 
 ---
