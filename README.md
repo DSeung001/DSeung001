@@ -42,9 +42,3 @@
 - Korea National Open University, B.S. in Computer Science (2020 ~ 2023)
 
 ---
-
-## ⭐️ Interests
-
-요즘은 동영상에 관심있습니다.
-
----
