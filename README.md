@@ -6,7 +6,8 @@
 
 ![counter](https://komarev.com/ghpvc/?username=seungryeol)
 
-📫 contact via email: [seungryeol156@gmail.com](mailto:seungryeol156@gmail.com)  
+📫 contact via email: [seungryeol156@gmail.com](mailto:seungryeol156@gmail.com) <br/>
+📝 Resume: [https://dseung001.github.io/resume](https://dseung001.github.io/resume/) <br/>
 📘 blog(new): 2025.07.30 ~ [https://dseung001.github.io](https://dseung001.github.io) <br/>
 📘 blog(old):~ 2025.07.30 [https://seung.tistory.com](https://seung.tistory.com) 
 
