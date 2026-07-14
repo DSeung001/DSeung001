@@ -6,10 +6,12 @@
 
 ![counter](https://komarev.com/ghpvc/?username=seungryeol)
 
-📫 contact via email: [seungryeol156@gmail.com](mailto:seungryeol156@gmail.com) <br/>
+📫 Contact via email: [seungryeol156@gmail.com](mailto:seungryeol156@gmail.com) <br/>
 📝 Resume: [https://dseung001.github.io/resume](https://dseung001.github.io/resume/) <br/>
-📘 blog(new): 2025.07.30 ~ [https://dseung001.github.io](https://dseung001.github.io) <br/>
-📘 blog(old):~ 2025.07.30 [https://seung.tistory.com](https://seung.tistory.com) 
+🤖 Portfolio: [https://devseung.com](https://devseung.com/)<br/>
+👨🏻‍💻 Project: [google sheet](https://docs.google.com/presentation/d/19SqbwXCLMbIYDH1Hgo-iASpL1qW6bTaYodKPFHV8hqg/edit?usp=sharing)<br/>
+📘 Blog(new): 2025.07.30 ~ [https://dseung001.github.io](https://dseung001.github.io) <br/>
+📘 Blog(old):~ 2025.07.30 [https://seung.tistory.com](https://seung.tistory.com) 
 
 ---
 
