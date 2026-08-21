@@ -22,10 +22,10 @@
   - Golang
   - Laravel, PHP
   - Java, Spring, Spring Boot
-  - SQL
 
 - **Infra & OS**
-  - Amazon EC2, RDS
+  - Amazon EC2
+  - Redis
   - MySQL, PostgreSQL
 ---
 
