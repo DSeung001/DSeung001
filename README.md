@@ -25,8 +25,8 @@
   - SQL
 
 - **Infra & OS**
-  - Amazon EC2(Ubuntu), RDS
-  - CentOS 
+  - Amazon EC2, RDS
+  - MySQL, PostgreSQL
 ---
 
 ## 👨‍💻 Works
