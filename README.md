@@ -11,7 +11,7 @@
 🤖 Portfolio: [https://devseung.com](https://devseung.com/)<br/>
 👨🏻‍💻 Project: [google sheet](https://docs.google.com/presentation/d/19SqbwXCLMbIYDH1Hgo-iASpL1qW6bTaYodKPFHV8hqg/edit?usp=sharing)<br/>
 📘 Blog: [https://dseung001.github.io](https://dseung001.github.io) <br/>
-🫡 LinkedIn: [www.linkedin.com/in/승렬-지-190a73282](www.linkedin.com/in/승렬-지-190a73282)<br/>
+🫡 LinkedIn: [www.linkedin.com/in/승렬-지-190a73282/](www.linkedin.com/in/승렬-지-190a73282/)<br/>
 
 ---
 
