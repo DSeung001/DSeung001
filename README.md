@@ -10,8 +10,7 @@
 📝 Resume: [https://dseung001.github.io/resume](https://dseung001.github.io/resume/) <br/>
 🤖 Portfolio: [https://devseung.com](https://devseung.com/)<br/>
 👨🏻‍💻 Project: [google sheet](https://docs.google.com/presentation/d/19SqbwXCLMbIYDH1Hgo-iASpL1qW6bTaYodKPFHV8hqg/edit?usp=sharing)<br/>
-📘 Blog(new): 2025.07.30 ~ [https://dseung001.github.io](https://dseung001.github.io) <br/>
-📘 Blog(old):~ 2025.07.30 [https://seung.tistory.com](https://seung.tistory.com) 
+📘 Blog: [https://dseung001.github.io](https://dseung001.github.io) <br/>
 
 ---
 
