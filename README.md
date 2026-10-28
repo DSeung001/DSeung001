@@ -6,7 +6,6 @@
 
 ![counter](https://komarev.com/ghpvc/?username=seungryeol)
 
-📫 Contact: [seungryeol156@gmail.com](mailto:seungryeol156@gmail.com) <br/>
 📝 Resume: [https://dseung001.github.io/resume](https://dseung001.github.io/resume/) <br/>
 🤖 Portfolio: [https://devseung.com](https://devseung.com/)<br/>
 👨🏻‍💻 Project: [google sheet](https://docs.google.com/presentation/d/19SqbwXCLMbIYDH1Hgo-iASpL1qW6bTaYodKPFHV8hqg/edit?usp=sharing)<br/>
